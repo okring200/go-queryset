@@ -1,4 +1,4 @@
-module github.com/jirfag/go-queryset
+module github.com/okring200/go-queryset
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
